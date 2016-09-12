@@ -1,0 +1,17 @@
+/***
+
+  Custom Cursor: Simple Green
+  By: www.anyhs-themes.tumblr.com
+
+***/
+
+* {cursor: url("http://66.media.tumblr.com/0baa71ec360614f0393e0769177c8e56/tumblr_inline_odenyzNaZf1r2thyr_75sq.png"), auto;}
+a, a li, a li i, a span, a span i, a i, a iframe, a div, a div i, a img, a p, a svg, a path {cursor: url("http://66.media.tumblr.com/0952e818505a648f75c6a48eaa1eafb7/tumblr_inline_odenz0QKlz1r2thyr_75sq.png"), pointer;}
+
+
+/***
+
+  Custom Cursor: Simple Green
+  By: www.anyhs-themes.tumblr.com
+
+***/
