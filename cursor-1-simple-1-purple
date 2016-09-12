@@ -1,0 +1,16 @@
+/***
+
+  Custom Cursor: Simple Purple
+  By: www.anyhs-themes.tumblr.com
+
+***/
+
+body {cursor: url("https://67.media.tumblr.com/7ec2fb93a20f9c9bcd47f40f520f1484/tumblr_inline_odenyxLtHp1r2thyr_540.png"), auto;}
+a:hover {cursor: url("https://66.media.tumblr.com/f833f16f3efa8898a7f3be858e90aced/tumblr_inline_odenyy3Pz91r2thyr_540.png"), progress;}
+
+/***
+
+  Custom Cursor: Simple Purple
+  By: www.anyhs-themes.tumblr.com
+
+***/
