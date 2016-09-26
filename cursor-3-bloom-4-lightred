@@ -1,0 +1,17 @@
+/***
+
+  Custom Cursor: Bloom - Light Red
+  By: www.anyhs-themes.tumblr.com
+
+***/
+
+* {cursor: url("https://67.media.tumblr.com/f8b11fb65f8daf0f5f82fd0a434af64c/tumblr_inline_oe3ghjMJyq1r2thyr_540.png"), auto;}
+a, a li, a li i, a span, a span i, a i, a iframe, a div, a div i, a img, a p, a svg, a path, iframe {cursor: url("https://66.media.tumblr.com/38b9436b8694cb80028978fd2f4fb7b0/tumblr_inline_oe3ghkpiL91r2thyr_540.png"), pointer;}
+
+
+/***
+
+  Custom Cursor: Bloom - Light red
+  By: www.anyhs-themes.tumblr.com
+
+***/
