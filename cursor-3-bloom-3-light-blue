@@ -5,8 +5,8 @@
 
 ***/
 
-* {cursor: url("https://67.media.tumblr.com/826315013c2ed82e71fd8080277f0fdf/tumblr_inline_oe3e5mXL6A1r2thyr_540.png"), auto;}
-a, a li, a li i, a span, a span i, a i, a iframe, a div, a div i, a img, a p, a svg, a path, iframe {cursor: url("https://66.media.tumblr.com/1ecf1f681967cb663a42a5e05b1e07f6/tumblr_inline_oe3e5mcObd1r2thyr_540.png"), pointer;}
+* {cursor: url("https://raw.githubusercontent.com/anyhsalinas/cursors/master/c6a.png"), auto;}
+a, a li, a li i, a span, a span i, a i, a iframe, a div, a div i, a img, a p, a svg, a path, iframe {cursor: url("https://raw.githubusercontent.com/anyhsalinas/cursors/master/c6b.png"), pointer;}
 
 
 /***
